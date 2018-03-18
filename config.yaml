@@ -1,0 +1,9 @@
+
+log_level: debug
+shutdown_timeout: 5
+
+# Token is the gitlab token used to authenicate. (ie pm333ldfserklasLAR2-n)
+token: pm8Q88h7i1AR2L-n
+
+# BaseURL is the base url used to communicate with the gitlab service. (ie https://gitlab.cloud.net/api/v4)
+base_url: https://gitlab.cloud.net/api/v4
